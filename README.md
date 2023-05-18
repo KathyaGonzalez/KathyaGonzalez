@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kathya González 👋</h1>
 <p align="center">I'm a ti and systems engineering student from Rafael Landivar University in Quetzaltenango, Guatemala. I'm a junior developer with knowledge in the following languages and tools:</p>
 <div align="left">
-    <div>
+    <div align="center">
         <img 
         src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" 
         tittle="HTML5" 
