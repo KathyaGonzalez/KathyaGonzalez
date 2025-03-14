@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kathya González 👋</h1>
-<p align="center">I'm a ti and systems engineering student from Rafael Landivar University in Quetzaltenango, Guatemala. I'm a junior developer with knowledge in the following languages and tools:</p>
+<p align="center">I'm a ti and systems engineer from Rafael Landivar University in Quetzaltenango, Guatemala. I'm a junior developer with knowledge in the following languages and tools:</p>
 <div align="left">
     <div align="center">
         <img 
@@ -34,12 +34,6 @@
         height="40"/>&nbsp;
         <img 
         src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" 
-        tittle="Java" 
-        alt="Java"
-        width="40"
-        height="40"/>&nbsp;
-        <img 
-        src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" 
         tittle="Java" 
         alt="Java"
         width="40"
