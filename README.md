@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Kathya González 👋</h1>
-<p align="center">I'm a ti and systems engineer from Rafael Landivar University in Quetzaltenango, Guatemala. I'm a junior developer with knowledge in the following languages and tools:</p>
+![Name](https://github.com/user-attachments/assets/aecaaf11-6363-4f2a-9b24-787446ff603b)
+<p>I'm a ti and systems engineer with a focus on backend, experience in frontend, and skills in project planning. I like to approach development with a integral vision, understanding each phase of the process to create optimal and well structured solutions. I have knowledge in the following languages and tools:</p>
 <div align="left">
     <div align="center">
         <img 
@@ -63,7 +63,7 @@
         width="50"
         height="40"/>&nbsp;
         <img 
-        src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" 
+        src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" 
         tittle="Bootstrap" 
         alt="Bootstrap"
         width="40"
