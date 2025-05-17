@@ -1,4 +1,5 @@
-![Name](https://github.com/user-attachments/assets/aecaaf11-6363-4f2a-9b24-787446ff603b)
+![name](https://github.com/user-attachments/assets/16ba6640-e266-4093-a7ba-22402ba15692)
+
 <p>I'm a ti and systems engineer with a focus on backend, experience in frontend, and skills in project planning. I like to approach development with a integral vision, understanding each phase of the process to create optimal and well structured solutions. I have knowledge in the following languages and tools:</p>
 <div align="left">
     <div align="center">
