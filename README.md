@@ -1,6 +1,16 @@
 ![name](https://github.com/user-attachments/assets/16ba6640-e266-4093-a7ba-22402ba15692)
 
+### About me
 <p>I'm a ti and systems engineer with a focus on backend, experience in frontend, and skills in project planning. I like to approach development with a integral vision, understanding each phase of the process to create optimal and well structured solutions.</p>
+
+```java
+public class Me {
+    String Love = "Learning through community.";
+    String Enjoy = "Personal projects.";
+    String Like = "New tech, always learning.";
+    String Introduce = "Quality over quantity.";
+}
+```
 
 ### Languages and tools 
 <div align="left">
@@ -82,23 +92,6 @@
 
 ### My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KathyaGonzalez&theme=transparent)](https://git.io/streak-stats)
+![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=KathyaGonzalez&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KathyaGonzalez&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KathyaGonzalez&layout=compact&theme=transparent)](https://github.com/KathyaGonzalez/github-readme-stats)
-
-<!--
-**KathyaGonzalez/KathyaGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KathyaGonzalez&layout=compact&theme=tokyonight)](https://github.com/KathyaGonzalez/github-readme-stats)
