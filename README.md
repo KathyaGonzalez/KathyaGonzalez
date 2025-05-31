@@ -1,7 +1,7 @@
 ![name](https://github.com/user-attachments/assets/16ba6640-e266-4093-a7ba-22402ba15692)
 
 ### About me
-<p>I'm a ti and systems engineer with a focus on backend, experience in frontend, and skills in project planning. I like to approach development with a integral vision, understanding each phase of the process to create optimal and well structured solutions.</p>
+<p>I'm an IT engineer with a focus on backend, experience in frontend, and skills in project planning. I like to approach development with a integral vision, understanding each phase of the process to create optimal and well structured solutions.</p>
 
 ```java
 public class Me {
